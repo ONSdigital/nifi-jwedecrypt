@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jwedecrypt.iml" filepath="$PROJECT_DIR$/jwedecrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-jwedecrypt-nar/nifi-jwedecrypt-nar.iml" filepath="$PROJECT_DIR$/nifi-jwedecrypt-nar/nifi-jwedecrypt-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-jwedecrypt-processors/nifi-jwedecrypt-processors.iml" filepath="$PROJECT_DIR$/nifi-jwedecrypt-processors/nifi-jwedecrypt-processors.iml" />
+    </modules>
+  </component>
+</project>
