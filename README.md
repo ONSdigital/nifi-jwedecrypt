@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ONSdigital/nifi-jwedecrypt.svg?branch=master)](https://travis-ci.com/ONSdigital/nifi-jwedecrypt)
+
 # JWE decrypt processor for Nifi
 
 A Nifi processor to decrypt and verify encrypted JWTs
